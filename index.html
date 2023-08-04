@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chic Lighting & Design</title>
+    <link rel="stylesheet" href="./public/css/style.css">
+    <link rel="stylesheet" href="./public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="./public/js/angular.min.js"></script>
+    <script src="./public/js/angular-route.min.js"></script>
+    <script src="./public/js/main.js"></script>
+</head>
+
+<body ng-app="myApp">
+    <div class="route">
+        <a href="#!/"><button class="btn btn-light button">Home</button></a>
+        <a href="#!sitemap"><button class="btn btn-light button">Site map</button></a>
+        <a href="#!about"><button class="btn btn-light button">About us</button></a>
+        <a href="#!gallery"><button class="btn btn-light button">Gallery</button></a>
+        <a href="#!fqalink"><button class="btn btn-light button">FQA link</button></a>
+        <a href="#!contact"><button class="btn btn-light button">Contact us</button></a>
+    </div>
+    <div ng-include="'header.html'"></div>
+    <div ng-view></div>
+    <div ng-include="'footer.html'"></div>
+</body>
+
+</html>
