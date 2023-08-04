@@ -369,3 +369,24 @@ footer{
 .h-product-item{
     margin: 1rem 0;
 }
+
+/* About.html */
+body{
+    font-family: "Crimson Text", serif;
+}
+.about-heading{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    margin: 1rem 0;
+}
+
+.describe-text{
+    font-size: 18px;
+}
+
+.describe{
+    /* width: 750px; */
+    text-align: justify;
+    margin: 2rem auto;
+}
