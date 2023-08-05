@@ -1,0 +1,255 @@
+[
+    {
+        "id": 1,
+        "title": "SKU CH20052_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5e62594273696440360166e9/detail_mobile_2x/aged_gold/bon-air-chandelier.jpg?c=1645632977",
+        "product_id": 1
+    },
+    {
+        "id": 2,
+        "title": "SKU CH20052_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5f440453736964001800000c/detail_mobile_2x/aged_gold/bon-air-chandelier.jpg?c=1645632978",
+        "product_id": 1
+    },
+    {
+        "id": 3,
+        "title": "SKU CH20052_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5f440454736964001800000d/detail_mobile_2x/aged_gold/bon-air-chandelier.jpg?c=1645632979",
+        "product_id": 1
+    },
+    {
+        "id": 4,
+        "title": "SKU PE19026_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5cf7dbce61707020cf00063f/detail_mobile_2x/chrome_blue_clear/calypso-swirl-pendant.jpg?c=1642180174",
+        "product_id": 2
+    },
+    {
+        "id": 5,
+        "title": "SKU PE19026_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5cf7dbce61707020cf000640/detail_mobile_2x/chrome_blue_clear/calypso-swirl-pendant.jpg?c=1642180174",
+        "product_id": 2
+    },
+    {
+        "id": 6,
+        "title": "SKU PE19026_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5cf7dbcf61707020cf000642/detail_mobile_2x/chrome_blue_clear/calypso-swirl-pendant.jpg?c=1642180176",
+        "product_id": 2
+    },
+    {
+        "id": 7,
+        "title": "SKU BS18127 BK_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5b2195e56170700d240379ca/detail_mobile_2x/matte_black_seeded_glass/soft-seeded-vanity-light-3-light.jpg?c=1637004010",
+        "product_id": 3
+    },
+    {
+        "id": 8,
+        "title": "SKU BS18127 BK_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5b2195e56170700d240379cb/detail_mobile_2x/matte_black_seeded_glass/soft-seeded-vanity-light-3-light.jpg?c=1637004010",
+        "product_id": 3
+    },
+    {
+        "id": 9,
+        "title": "SKU BS18127 BK_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5c5c4a176170700c6f0280d5/detail_mobile_2x/matte_black_seeded_glass/soft-seeded-vanity-light-3-light.jpg?c=1637004011",
+        "product_id": 3
+    },
+    {
+        "id": 10,
+        "title": "SKU SC15174 AB_1",
+        "url": "https://cdn.shadesoflight.com/product_images/58da70a46170701e540006b3/detail_mobile_2x/aged_brass/modern-shielded-led-sconce.jpg?c=1645557587",
+        "product_id": 4
+    },
+    {
+        "id": 11,
+        "title": "SKU SC15174 AB_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5fadb2dc73696435c30061f8/detail_mobile_2x/aged_brass/modern-shielded-led-sconce.jpg?c=1645557589",
+        "product_id": 4
+    },
+    {
+        "id": 12,
+        "title": "SKU SC15174 AB_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5fadb2e173696435c30061fc/detail_mobile_2x/aged_brass/modern-shielded-led-sconce.jpg?c=1645557591",
+        "product_id": 4
+    },
+    {
+        "id": 13,
+        "title": "SKU FM14104_1",
+        "url": "https://cdn.shadesoflight.com/product_images/580e9ff96170702b94002577/detail_mobile_2x/brushed_gold_soft_white/scalloped-shade-semi-flush-ceiling-light-4-light.jpg?c=1645474282",
+        "product_id": 5
+    },
+    {
+        "id": 14,
+        "title": "SKU FM14104_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5f5a96df7369640019026864/detail_mobile_2x/brushed_gold_soft_white/scalloped-shade-semi-flush-ceiling-light-4-light.jpg?c=1645474283",
+        "product_id": 5
+    },
+    {
+        "id": 15,
+        "title": "SKU FM14104_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5f5a96df7369640019026865/detail_mobile_2x/brushed_gold_soft_white/scalloped-shade-semi-flush-ceiling-light-4-light.jpg?c=1645474284",
+        "product_id": 5
+    },
+    {
+        "id": 16,
+        "title": "SKU FM19050 AB_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5ce2d196617070592a05e83d/detail_mobile_2x/aged_brass_bronze/modish-mere-semi-flush-ceiling-light.jpg?c=1672956720",
+        "product_id": 6
+    },
+    {
+        "id": 17,
+        "title": "SKU FM19050 AB_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5e3f07f3736964072e01b426/detail_mobile_2x/aged_brass_bronze/modish-mere-semi-flush-ceiling-light.jpg?c=1672956722",
+        "product_id": 6
+    },
+    {
+        "id": 18,
+        "title": "SKU FM19050 AB_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5ce2d196617070592a05e83d/detail_mobile_2x/aged_brass_bronze/modish-mere-semi-flush-ceiling-light.jpg?c=1672956720",
+        "product_id": 6
+    },
+    {
+        "id": 19,
+        "title": "SKU FA16025S WN_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5c98fe0461707067f901ee32/detail_mobile_2x/matte_white_natural/48-indoor-outdoor-metal-and-wood-ceiling-fan-with-led-light.jpg?c=1673298777",
+        "product_id": 7
+    },
+    {
+        "id": 20,
+        "title": "SKU FA16025S WN_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5c98fe1261707067f901ee52/detail_mobile_2x/matte_white_natural/48-indoor-outdoor-metal-and-wood-ceiling-fan-with-led-light.jpg?c=1673298800",
+        "product_id": 7
+    },
+    {
+        "id": 21,
+        "title": "SKU FA16025S WN_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5f885770736964001800ea72/detail_mobile_2x/matte_white_natural/48-indoor-outdoor-metal-and-wood-ceiling-fan-with-led-light.jpg?c=1673298805",
+        "product_id": 7
+    },
+    {
+        "id": 22,
+        "title": "SKU FA20038 BB_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5fa060607369640018000097/detail_mobile_2x/brushed_brass_brass_gray/54-cielo-ceiling-fan.jpg?c=1672859985",
+        "product_id": 8
+    },
+    {
+        "id": 23,
+        "title": "SKU FA20038 BB_2",
+        "url": "https://cdn.shadesoflight.com/product_images/62d0788a7369646e0d011e90/detail_mobile_2x/brushed_brass_brass_gray/54-cielo-ceiling-fan.jpg?c=1672859988",
+        "product_id": 8
+    },
+    {
+        "id": 24,
+        "title": "SKU FA20038 BB_3",
+        "url": "https://cdn.shadesoflight.com/product_images/62d0788b7369646e0d011e91/detail_mobile_2x/brushed_brass_brass_gray/54-cielo-ceiling-fan.jpg?c=1672859991",
+        "product_id": 8
+    },
+    {
+        "id": 25,
+        "title": "SKU OL18048 ZN_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5b0851c56170700b61006644/detail_mobile_2x/aged_zinc_clear_glass/vintage-suspended-pane-outdoor-sconce-small.jpg?c=1680027274",
+        "product_id": 9
+    },
+    {
+        "id": 26,
+        "title": "SKU OL18048 ZN_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5df3baa7736964001a002edd/detail_mobile_2x/aged_zinc_clear_glass/vintage-suspended-pane-outdoor-sconce-small.jpg?c=1680027275",
+        "product_id": 9
+    },
+    {
+        "id": 27,
+        "title": "SKU OL18048 ZN_3",
+        "url": "https://cdn.shadesoflight.com/product_images/60f5c47273696400180001f9/detail_mobile_2x/aged_zinc_clear_glass/vintage-suspended-pane-outdoor-sconce-small.jpg?c=1680027277",
+        "product_id": 9
+    },
+    {
+        "id": 28,
+        "title": "SKU FM15129 WH_1",
+        "url": "https://cdn.shadesoflight.com/product_images/580ea0be6170702b940026cb/detail_mobile_2x/white/9-led-simple-round-low-profile-ceiling-light.jpg?c=1597837329",
+        "product_id": 10
+    },
+    {
+        "id": 29,
+        "title": "SKU FM15129 WH_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5ebdb347736964764002bf55/detail_mobile_2x/white/9-led-simple-round-low-profile-ceiling-light.jpg?c=1597837330",
+        "product_id": 10
+    },
+    {
+        "id": 30,
+        "title": "SKU FM15129 WH_3",
+        "url": "https://cdn.shadesoflight.com/product_images/580ea0be6170702b940026cb/detail_mobile_2x/white/9-led-simple-round-low-profile-ceiling-light.jpg?c=1597837329",
+        "product_id": 10
+    },
+    {
+        "id": 31,
+        "title": "SKU TL16128_1",
+        "url": "https://cdn.shadesoflight.com/product_images/59b82d13617070111e0000c8/detail_mobile_2x/classic-porcelain-vase-table-lamp.jpg?c=1597840653",
+        "product_id": 11
+    },
+    {
+        "id": 32,
+        "title": "SKU TL16128_2",
+        "url": "https://cdn.shadesoflight.com/product_images/59b82d13617070111e0000c9/detail_mobile_2x/classic-porcelain-vase-table-lamp.jpg?c=1597840653",
+        "product_id": 11
+    },
+    {
+        "id": 33,
+        "title": "SKU TL16128_3",
+        "url": "https://cdn.shadesoflight.com/product_images/59b82d13617070111e0000c8/detail_mobile_2x/classic-porcelain-vase-table-lamp.jpg?c=1597840653",
+        "product_id": 11
+    },
+    {
+        "id": 34,
+        "title": "SKU FL18010 GL_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5b8816d96170707f2205fd44/detail_mobile_2x/gold/modern-globes-vertical-floor-lamp.jpg?c=1656515710",
+        "product_id": 12
+    },
+    {
+        "id": 35,
+        "title": "SKU FL18010 GL_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5b8816d96170707f2205fd45/detail_mobile_2x/gold/modern-globes-vertical-floor-lamp.jpg?c=1656515711",
+        "product_id": 12
+    },
+    {
+        "id": 36,
+        "title": "SKU FL18010 GL_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5b8816da6170707f2205fd46/detail_mobile_2x/gold/modern-globes-vertical-floor-lamp.jpg?c=1656515711",
+        "product_id": 12
+    },
+    {
+        "id": 37,
+        "title": "SKU MW18139 BK_1",
+        "url": "https://cdn.shadesoflight.com/product_images/5ba56bd86170705a94044a8b/detail_mobile_2x/matte_black/refreshingly-rectangular-mirror.jpg?c=1597838271",
+        "product_id": 13
+    },
+    {
+        "id": 38,
+        "title": "SKU MW18139 BK_2",
+        "url": "https://cdn.shadesoflight.com/product_images/5ba56bd96170705a94044a8e/detail_mobile_2x/matte_black/refreshingly-rectangular-mirror.jpg?c=1597838272",
+        "product_id": 13
+    },
+    {
+        "id": 39,
+        "title": "SKU MW18139 BK_3",
+        "url": "https://cdn.shadesoflight.com/product_images/5ba56bdb6170705a94044a94/detail_mobile_2x/matte_black/refreshingly-rectangular-mirror.jpg?c=1597838273",
+        "product_id": 13
+    },
+    {
+        "id": 40,
+        "title": "SKU XA22071_1",
+        "url": "https://cdn.shadesoflight.com/product_images/6328872273696460000024b2/detail_mobile_2x/antiqued_green_antiqued_brown_antiqued_beige/paesaggio-wall-art.jpg?c=1663600418",
+        "product_id": 14
+    },
+    {
+        "id": 41,
+        "title": "SKU XA22071_2",
+        "url": "https://cdn.shadesoflight.com/product_images/6328872273696460000024b3/detail_mobile_2x/antiqued_green_antiqued_brown_antiqued_beige/paesaggio-wall-art.jpg?c=1663600418",
+        "product_id": 14
+    },
+    {
+        "id": 42,
+        "title": "SKU XA22071_3",
+        "url": "https://cdn.shadesoflight.com/product_images/6328872373696460000024f6/detail_mobile_2x/antiqued_green_antiqued_brown_antiqued_beige/paesaggio-wall-art.jpg?c=1663600419",
+        "product_id": 14
+    }
+    
+]

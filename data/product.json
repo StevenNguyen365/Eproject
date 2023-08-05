@@ -1,0 +1,157 @@
+[
+    {
+        "id": 1,
+        "name": "BON AIR CHANDELIER",
+        "description": "Glowing with a rich finish and an abundance of light, our Bon Air Tiered Chandelier proclaims a powerhouse poise for your dining room or living room. This grand fixture fills your modern glam space with luxurious style.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5e62594273696440360166e9/large_thumb/aged_gold/bon-air-chandelier.jpg?c=1645632977",
+        "price": 930,
+        "quantity": 200,
+        "view": 100,
+        "created_at": "2023-8-5",
+        "categorites_id": 1
+    },
+    {
+        "id": 2,
+        "name": "CALYPSO SWIRL PENDANT",
+        "description": "This beautiful swirling glass pendant with the added sculptural glass accentuating the swirl pattern on the outside is a unique, exciting take on a classic art glass pendant.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5cf7dbce61707020cf00063f/large_thumb/chrome_blue_clear/calypso-swirl-pendant.jpg?c=1642180174",
+        "price": 239,
+        "quantity": 500,
+        "view": 200,
+        "created_at": "2023-8-4",
+        "categorites_id": 1
+    },
+    {
+        "id": 3,
+        "name": "SOFT SEEDED VANITY LIGHT - 3 LIGHT",
+        "description": "Bring antique-inspired charm to farmhouse and rustic bathrooms with this quietly refined bath sconce.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5b2195e56170700d240379ca/detail_mobile_2x/matte_black_seeded_glass/soft-seeded-vanity-light-3-light.jpg?c=1637004010",
+        "price": 150,
+        "quantity": 400,
+        "view": 150,
+        "created_at": "2023-7-1",
+        "categorites_id": 2
+    },
+    {
+        "id": 4,
+        "name": "MODERN SHIELDED SCONCE",
+        "description": "A clean, simple design takes the lead in this understated sconce in which a metal shield hides the LED lighting from direct view. LED GU10 base only.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/58da70a46170701e540006b3/detail_mobile_2x/aged_brass/modern-shielded-led-sconce.jpg?c=1645557587",
+        "price": 216,
+        "quantity": 450,
+        "view": 250,
+        "created_at": "2023-6-30",
+        "categorites_id": 2
+    },
+    {
+        "id": 5,
+        "name": "SCALLOPED SHADE SEMI-FLUSH CEILING LIGHT - 4 LIGHT",
+        "description": "Add a little bit of elegance to your space with this sophisticated scallop shade fixture.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/580e9ff96170702b94002577/detail_mobile_2x/brushed_gold_soft_white/scalloped-shade-semi-flush-ceiling-light-4-light.jpg?c=1645474282",
+        "price": 338,
+        "quantity": 320,
+        "view": 500,
+        "created_at": "2023-7-15",
+        "categorites_id": 3
+    },
+    {
+        "id": 6,
+        "name": "MOD BOWL SEMI-FLUSH CEILING LIGHT - LARGE",
+        "description": "Simplistic and chic, the Mod Bowl Ceiling Light has modern hardware and a clear glass shade that exudes a sleek and minimal aesthetic.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5ce2d196617070592a05e83d/detail_mobile_2x/aged_brass_bronze/modish-mere-semi-flush-ceiling-light.jpg?c=1672956720",
+        "price": 218,
+        "quantity": 420,
+        "view": 400,
+        "created_at": "2023-7-24",
+        "categorites_id": 3
+    },
+    {
+        "id": 7,
+        "name": "48' INDOOR/OUTDOOR METAL AND WOOD CEILING FAN WITH LED LIGHT",
+        "description": "This quiet indoor/outdoor metal and wood ceiling fan with lights showcases a modern three blade design that embraces an artistic balance of cutting-edge technology, beauty, and modern design",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5c98fe0461707067f901ee32/detail_mobile_2x/matte_white_natural/48-indoor-outdoor-metal-and-wood-ceiling-fan-with-led-light.jpg?c=1673298777",
+        "price": 649,
+        "quantity": 320,
+        "view": 600,
+        "created_at": "2023-7-21",
+        "categorites_id": 4
+    },
+    {
+        "id": 8,
+        "name": "54' MODERN GLOBE LED CEILING FAN",
+        "description": "Our Modern Globe Ceiling Fan has a transitional appeal with a modern twist.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5fa060607369640018000097/detail_mobile_2x/brushed_brass_brass_gray/54-cielo-ceiling-fan.jpg?c=1672859985",
+        "price": 260,
+        "quantity": 510,
+        "view": 900,
+        "created_at": "2023-8-1",
+        "categorites_id": 4
+    },
+    {
+        "id": 9,
+        "name": "VINTAGE SUSPENDED PANE OUTDOOR SCONCE - SMALL",
+        "description": "The square body and clear glass panes of this aged sconce have an open, breezy sensibility that's balanced by the sturdy metal frame, square backplate, and bold loop and hook suspension.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5b0851c56170700b61006644/detail_mobile_2x/aged_zinc_clear_glass/vintage-suspended-pane-outdoor-sconce-small.jpg?c=1680027274",
+        "price": 279,
+        "quantity": 210,
+        "view": 1060,
+        "created_at": "2023-8-2",
+        "categorites_id": 5
+    },
+    {
+        "id": 10,
+        "name": "9' LED SIMPLE ROUND LOW PROFILE CEILING LIGHT",
+        "description": "This low profile ceiling light is the perfect solution when recessed lighting is not an option.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/580ea0be6170702b940026cb/detail_mobile_2x/white/9-led-simple-round-low-profile-ceiling-light.jpg?c=1597837329",
+        "price": 61,
+        "quantity": 110,
+        "view": 560,
+        "created_at": "2023-8-3",
+        "categorites_id": 5
+    },
+    {
+        "id": 11,
+        "name": "CLASSIC PORCELAIN VASE TABLE LAMP",
+        "description": "A classic vase shape for traditional decor, this table lamp is a beautiful shade of gray-blue for an updated take on traditional design. Off white modified bell polyester shade.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/59b82d13617070111e0000c8/detail_mobile_2x/classic-porcelain-vase-table-lamp.jpg?c=1597840653",
+        "price": 313,
+        "quantity": 250,
+        "view": 1230,
+        "created_at": "2023-8-5",
+        "categorites_id": 6
+    },
+    {
+        "id": 12,
+        "name": "MODERN GLOBES VERTICAL FLOOR LAMP",
+        "description": "Update your space with the unique style of our Modern Globes Vertical Floor Lamp.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5b8816d96170707f2205fd44/detail_mobile_2x/gold/modern-globes-vertical-floor-lamp.jpg?c=1656515710",
+        "price": 285,
+        "quantity": 150,
+        "view": 230,
+        "created_at": "2023-8-4",
+        "categorites_id": 6
+    },
+    {
+        "id": 13,
+        "name": "REFRESHINGLY RECTANGULAR MIRROR",
+        "description": "Take a deep breath, this wall mirror is in a no stress zone.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5ba56bd86170705a94044a8b/detail_mobile_2x/matte_black/refreshingly-rectangular-mirror.jpg?c=1597838271",
+        "price": 358,
+        "quantity": 130,
+        "view": 130,
+        "created_at": "2023-7-24",
+        "categorites_id": 7
+    },
+    {
+        "id": 14,
+        "name": "PAESAGGIO WALL ART",
+        "description": "Rich, moody tones and a serene subject unite in this bucolic giclee print.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/6328872273696460000024b2/detail_mobile_2x/antiqued_green_antiqued_brown_antiqued_beige/paesaggio-wall-art.jpg?c=1663600418",
+        "price": 597,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "categorites_id": 7
+    }
+   
+]

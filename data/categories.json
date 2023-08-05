@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "CHANDELIERS & PENDANTS",
+        "description": "There's a special place in designers' and lighting lovers' hearts for hanging lights."
+    },
+    {
+        "id": 2,
+        "name": "BATH & WALL LIGHTS",
+        "description": "Sconces and swing arm wall lights are the ideal way to add layers of light as well as bring the light source exactly where you need it for reading, working or accenting art."
+    },
+    {
+        "id": 3,
+        "name": "CEILING LIGHTS",
+        "description": "Ceiling lights hang close to or against the ceiling"
+    },
+    {
+        "id": 4,
+        "name": "FANS",
+        "description": "Our high-quality selection of unique ceiling fans and designs includes beautiful fixtures to help you distinguish your style while increasing airflow in your space."
+    },
+    {
+        "id": 5,
+        "name": "OUTDOOR LIGHTS",
+        "description": "Your outdoor lights are one of the first things visitors will notice outside your home."
+    },
+    {
+        "id": 6,
+        "name": "LAMPS & SHADES",
+        "description": "Lamp sure to delight"
+    },
+    {
+        "id": 7,
+        "name": "MIRROR & HOME DECOR",
+        "description": "Our Home Decor category encompasses unique, trendy, artistic and hard to find decorative elements for your home."
+    }
+]
