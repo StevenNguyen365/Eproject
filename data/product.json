@@ -2,13 +2,15 @@
     {
         "id": 1,
         "name": "BON AIR CHANDELIER",
+        "sku": "SKU PE20186 AB",
         "description": "Glowing with a rich finish and an abundance of light, our Bon Air Tiered Chandelier proclaims a powerhouse poise for your dining room or living room. This grand fixture fills your modern glam space with luxurious style.",
         "thumbnail": "https://cdn.shadesoflight.com/product_images/5e62594273696440360166e9/large_thumb/aged_gold/bon-air-chandelier.jpg?c=1645632977",
         "price": 930,
-        "quantity": 200,
-        "view": 100,
-        "created_at": "2023-8-5",
-        "categorites_id": 1
+        "color": "golden",
+        "size": "10.75'Hx10.5'Wx10.5'D",
+        "status": "In stock and ready to ship",
+        "category_id": 1,
+        "category_name": "CHANDELIERS & PENDANTS"
     },
     {
         "id": 2,
@@ -19,7 +21,20 @@
         "quantity": 500,
         "view": 200,
         "created_at": "2023-8-4",
-        "categorites_id": 1
+        "category_id": 1,
+        "category_name": "CHANDELIERS & PENDANTS"
+    },
+    {
+        "id": 15,
+        "name": "CLEAR GLASS SPHERE CHANDELIER",
+        "description": "Clearly a winner in versatility and simplicity, this glass globe chandelier brings modern panache to your mid-century, contemporary, or minimalist space!",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/640f67fa7369640018000049/detail_mobile_2x/satin_brass_clear/clear-glass-sphere-chandelier-2.jpg?c=1678903952",
+        "price": 499,
+        "quantity": 500,
+        "view": 200,
+        "created_at": "2023-8-4",
+        "category_id": 1,
+        "category_name": "CHANDELIERS & PENDANTS"
     },
     {
         "id": 3,
@@ -30,7 +45,8 @@
         "quantity": 400,
         "view": 150,
         "created_at": "2023-7-1",
-        "categorites_id": 2
+        "category_id": 2,
+        "category_name": "BATH & WALL LIGHTS"
     },
     {
         "id": 4,
@@ -41,7 +57,20 @@
         "quantity": 450,
         "view": 250,
         "created_at": "2023-6-30",
-        "categorites_id": 2
+        "category_id": 2,
+        "category_name": "BATH & WALL LIGHTS"
+    },
+    {
+        "id": 16,
+        "name": "YOUNG HOUSE LOVE DAPPER SCONCE",
+        "description": "This Young House Love Dapper Wall Sconce is a super functional and attractive round wall light fixture for bathrooms or kitchens.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5b5232e16170700723014bbd/detail_mobile_2x/brushed_brass_white/young-house-love-dapper-sconce-1.jpg?c=1631125432",
+        "price": 129,
+        "quantity": 450,
+        "view": 250,
+        "created_at": "2023-6-30",
+        "category_id": 2,
+        "category_name": "BATH & WALL LIGHTS"
     },
     {
         "id": 5,
@@ -52,7 +81,8 @@
         "quantity": 320,
         "view": 500,
         "created_at": "2023-7-15",
-        "categorites_id": 3
+        "category_id": 3,
+        "category_name": "CEILING LIGHTS"
     },
     {
         "id": 6,
@@ -63,18 +93,32 @@
         "quantity": 420,
         "view": 400,
         "created_at": "2023-7-24",
-        "categorites_id": 3
+        "category_id": 3,
+        "category_name": "CEILING LIGHTS"
+    },
+    {
+        "id": 17,
+        "name": "COASTAL COTTAGE CEILING LIGHT",
+        "description": "Combining clear water glass and rustic charm, this flush mount complements a myriad of styles from modern farmhouse and country lodge to classic colonial and coastal cottage.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5acbe5a7617070098f0017c8/detail_mobile_2x/distressed_cream/coastal-cottage-ceiling-light.jpg?c=1652195538",
+        "price": 258,
+        "quantity": 420,
+        "view": 400,
+        "created_at": "2023-7-24",
+        "category_id": 3,
+        "category_name": "CEILING LIGHTS"
     },
     {
         "id": 7,
-        "name": "48' INDOOR/OUTDOOR METAL AND WOOD CEILING FAN WITH LED LIGHT",
+        "name": "48' INDOOR/OUTDOOR METAL AND WOOD CEILING FAN",
         "description": "This quiet indoor/outdoor metal and wood ceiling fan with lights showcases a modern three blade design that embraces an artistic balance of cutting-edge technology, beauty, and modern design",
         "thumbnail": "https://cdn.shadesoflight.com/product_images/5c98fe0461707067f901ee32/detail_mobile_2x/matte_white_natural/48-indoor-outdoor-metal-and-wood-ceiling-fan-with-led-light.jpg?c=1673298777",
         "price": 649,
         "quantity": 320,
         "view": 600,
         "created_at": "2023-7-21",
-        "categorites_id": 4
+        "category_id": 4,
+        "category_name": "FAN"
     },
     {
         "id": 8,
@@ -85,7 +129,20 @@
         "quantity": 510,
         "view": 900,
         "created_at": "2023-8-1",
-        "categorites_id": 4
+        "category_id": 4,
+        "category_name": "FAN"
+    },
+    {
+        "id": 18,
+        "name": "60' ANGLED SPOKE INDOOR/OUTDOOR CEILING FAN",
+        "description": "Modern simplicity reigns with this indoor/outdoor patio ceiling fan, which showcases eight straight blades, crafted from ABS, curved at the ends and a powder-coated steel center",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5dcc579673696448bc00aae5/detail_mobile_2x/matte_black/60-angled-spoke-indoor-outdoor-ceiling-fan.jpg?c=1641571903",
+        "price": 879,
+        "quantity": 510,
+        "view": 900,
+        "created_at": "2023-8-1",
+        "category_id": 4,
+        "category_name": "FAN"
     },
     {
         "id": 9,
@@ -96,7 +153,8 @@
         "quantity": 210,
         "view": 1060,
         "created_at": "2023-8-2",
-        "categorites_id": 5
+        "category_id": 5,
+        "category_name": "OUTDOOR LIGHTS"
     },
     {
         "id": 10,
@@ -107,7 +165,20 @@
         "quantity": 110,
         "view": 560,
         "created_at": "2023-8-3",
-        "categorites_id": 5
+        "category_id": 5,
+        "category_name": "OUTDOOR LIGHTS"
+    },
+    {
+        "id": 19,
+        "name": "GEORGIAN SQUARED OUTDOOR POST LIGHT - LARGE",
+        "description": "Handcrafted in Richmond, Virginia by our team of local artisans, this exclusive outdoor lamp post lantern light has design roots reminiscent of fixtures seen in sprawling English countryside estates.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5aba91c46170700f9d01261e/detail_mobile_2x/darkened_copper_clear_glass/georgian-large-outdoor-post-lantern-3-light.jpg?c=1600715504",
+        "price": 825,
+        "quantity": 110,
+        "view": 560,
+        "created_at": "2023-8-3",
+        "category_id": 5,
+        "category_name": "OUTDOOR LIGHTS"
     },
     {
         "id": 11,
@@ -118,7 +189,8 @@
         "quantity": 250,
         "view": 1230,
         "created_at": "2023-8-5",
-        "categorites_id": 6
+        "category_id": 6,
+        "category_name": "LAMPS & SHADES"
     },
     {
         "id": 12,
@@ -129,7 +201,20 @@
         "quantity": 150,
         "view": 230,
         "created_at": "2023-8-4",
-        "categorites_id": 6
+        "category_id": 6,
+        "category_name": "LAMPS & SHADES"
+    },
+    {
+        "id": 20,
+        "name": "YOUNG HOUSE LOVE HEXAGON GLASS TABLE LAMP",
+        "description": "This colorful geometric table lamp from Young House Love has some serious glamour, and is perfect in any small space in need of some big style.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5d375e276170707bdf0469de/detail_mobile_2x/blue_chrome/young-house-love-hexagon-glass-table-lamp.jpg?c=1597840782",
+        "price": 289,
+        "quantity": 150,
+        "view": 230,
+        "created_at": "2023-8-4",
+        "category_id": 6,
+        "category_name": "LAMPS & SHADES"
     },
     {
         "id": 13,
@@ -140,7 +225,8 @@
         "quantity": 130,
         "view": 130,
         "created_at": "2023-7-24",
-        "categorites_id": 7
+        "category_id": 7,
+        "category_name": "MIRROR & HOME DECOR"
     },
     {
         "id": 14,
@@ -151,7 +237,91 @@
         "quantity": 50,
         "view": 630,
         "created_at": "2023-7-31",
-        "categorites_id": 7
+        "category_id": 7,
+        "category_name": "MIRROR & HOME DECOR"
+    },
+    {
+        "id": 21,
+        "name": "CLEAR CONCEPT CLOCK",
+        "description": "Modern, minimal, magnificent, our Clear Concept Clock does not steer you in the wrong direction with its function or its fashion.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5d7286376170702edf0018f2/detail_mobile_2x/black_gold/clear-concept-clock.jpg?c=1606061637",
+        "price": 218,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "category_id": 7,
+        "category_name": "MIRROR & HOME DECOR"
+    },
+    {
+        "id": 22,
+        "name": "LOTUS GLASS CEILING LIGHT - 3 LT",
+        "description": "Give your space a whimsical yet elegant feel with the Lotus Glass Ceiling Light.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/580e9df661707070e6001eaf/detail_mobile_2x/chrome_clear_glass/lotus-glass-ceiling-light-3-lt.jpg?c=1642450517",
+        "price": 378,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "category_id": 8,
+        "category_name": "CEILING LIGHT"
+    },
+    {
+        "id": 23,
+        "name": "LUSTRE EN TRANSITION CONVERTIBLE LANTERN",
+        "description": "Looking for a stately indoor lantern to take the place of an outdated chandelier or other hanging fixture?",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5b8833c76170707f22060aa9/detail_mobile_2x/aged_brass/lustre-en-transition-convertible-lantern.jpg?c=1642793041",
+        "price": 365,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "category_id": 8,
+        "category_name": "CHANDELIERS & PENDANTS"
+    },
+    {
+        "id": 24,
+        "name": "SWIRLING GLASS GLOBE PENDANT LIGHT",
+        "description": "This unique glass globe pendant is hand blown with an organic swirl pattern on a slightly iridescent clear glass globe with chrome hardware.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5c7db02761707033dd02152c/detail_mobile_2x/chrome_aqua/swirling-glass-globe-mini-pendant-light-1.jpg?c=1646147488",
+        "price": 315,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "category_id": 8,
+        "category_name": "CHANDELIERS & PENDANTS"
+    },
+    {
+        "id": 25,
+        "name": "ED ELLEN DEGENERES DUNNE 4 LIGHT PENDANT",
+        "description": "Dunne channels vintage lamps of yesteryear, with a rustic Aged Iron frame and a hand-sewn Natural Linen fabric shade that diffuses the light for a perfect glow.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5c7d4e0561707033dd01e53e/detail_mobile_2x/aged_iron_beige/dunne-4-light-pendant-by-ellen-degeneres.jpg?c=1642706711",
+        "price": 864,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "category_id": 8,
+        "category_name": "CHANDELIERS & PENDANTS"
+    },
+    {
+        "id": 26,
+        "name": "BENT POCKET OUTDOOR SCONCE",
+        "description": "A panel of aluminum is bent forward at the top and cradled by a bracket.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5c06b4c86c6f611a900000e3/detail_mobile_2x/rustic_forged/bent-pocket-outdoor-wall-light.jpg?c=1682629625",
+        "price": 288,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "category_id": 8,
+        "category_name": "OUTDOOR LIGHTS"
+    },
+    {
+        "id": 27,
+        "name": "INDUSTRIAL BANDED GLOBE PENDANT - SMALL",
+        "description": "The clear glass globe is encircled by a metal band and held aloft by arms that follow the shape and curvature of the globe.",
+        "thumbnail": "https://cdn.shadesoflight.com/product_images/5b885ce961707002a0038689/detail_mobile_2x/aged_brass_clear/industrial-banded-globe-pendant-small.jpg?c=1646076434",
+        "price": 368,
+        "quantity": 50,
+        "view": 630,
+        "created_at": "2023-7-31",
+        "category_id": 8,
+        "category_name": "CHANDELIERS & PENDANTS"
     }
-   
 ]

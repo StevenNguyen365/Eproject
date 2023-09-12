@@ -3,7 +3,8 @@
         "id": 1,
         "title": "SKU CH20052_1",
         "url": "https://cdn.shadesoflight.com/product_images/5e62594273696440360166e9/detail_mobile_2x/aged_gold/bon-air-chandelier.jpg?c=1645632977",
-        "product_id": 1
+        "product_id": 1,
+        "hovered": false
     },
     {
         "id": 2,

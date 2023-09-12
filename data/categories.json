@@ -33,5 +33,10 @@
         "id": 7,
         "name": "MIRROR & HOME DECOR",
         "description": "Our Home Decor category encompasses unique, trendy, artistic and hard to find decorative elements for your home."
+    },
+    {
+        "id": 8,
+        "name": "TRENDING NOW",
+        "description": "New trending products"
     }
 ]

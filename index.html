@@ -10,23 +10,52 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
         integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src="./public/js/angular.min.js"></script>
-    <script src="./public/js/angular-route.min.js"></script>
-    <script src="./public/js/main.js"></script>
+    <link rel="stylesheet" href="/public/aos-master/dist/aos.css">
 </head>
 
 <body ng-app="myApp">
-    <div class="route">
-        <a href="#!/"><button class="btn btn-light button">Home</button></a>
-        <a href="#!sitemap"><button class="btn btn-light button">Site map</button></a>
-        <a href="#!about"><button class="btn btn-light button">About us</button></a>
-        <a href="#!gallery"><button class="btn btn-light button">Gallery</button></a>
-        <a href="#!fqalink"><button class="btn btn-light button">FQA link</button></a>
-        <a href="#!contact"><button class="btn btn-light button">Contact us</button></a>
+    <div class="route" data-aos="fade-down" data-aos-duration="1500">
+            <div class="row">
+                <div class="col-md-6 header-1">
+                    <a href="#!/" class=""><button class="btn btn-light effect">Home</button></a>
+                    <a href="#!shop"><button class="btn btn-light effect">Product</button></a>
+                    <a href="#!sitemap"><button class="btn btn-light effect">Site map</button></a>
+                    <a href="#!about"><button class="btn btn-light effect">About us</button></a>
+                    <a href="#!gallery"><button class="btn btn-light effect">Gallery</button></a>
+                    <a href="#!fqalink"><button class="btn btn-light effect">FQA link</button></a>
+                    <a href="#!contact"><button class="btn btn-light effect">Contact us</button></a>
+                </div>
+                <div class="col-md-6 header-2">
+                    <img src="/image/chic-lighting-design-low-resolution-logo-black-on-transparent-background.png"
+                        alt="logo" class="main-logo">
+                    <span class="visit">Phone number: 0123 456789</span>
+                    <span class="visit">Email: abc@gmail.com</span>
+                    <i class="fa fa-user"> <span  class="visit">Visitor Number: </span> <span id="count" class="visit"></span></i>
+                </div>
+            </div>
     </div>
     <div ng-include="'header.html'"></div>
     <div ng-view></div>
     <div ng-include="'footer.html'"></div>
+    <div>
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+    </div>
+    <div id="scroll-container">
+        <div id="scroll-text" style="display: flex;">
+            <span id="hvn"></span>
+            <span id="gps"></span>
+        </div>
+    </div>
+    <script src="./public/js/angular.min.js"></script>
+    <script src="./public/js/angular-route.min.js"></script>
+    <script src="./public/js/main.js"></script>
+    <script src="./public/js/slide.js"></script>
+    <script src="/public/aos-master/dist/aos.js"></script>
+    <!-- <script src="https://unpkg.com/aos@next/dist/aos.js"></script> -->
+    <script>
+        AOS.init();
+    </script>
+
 </body>
 
 </html>

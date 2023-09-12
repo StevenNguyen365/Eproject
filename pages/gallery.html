@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="/public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/public/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="/public/js/angular.min.js"></script>
+    <script src="/public/js/angular-route.min.js"></script>
+    <script src="/public/js/main.js" defer></script>
+</head>
+
+<body>
+    <main ng-controller="GalleryController">
+        <div class="home-gallery">
+            <div class="container">
+                <div class="gallery-title">
+                    <h2 class="h-product-header" data-aos="zoom-in" data-aos-duration="1500"><span class="product-heading-text">GALLERY</span></h2>
+                </div>
+                <div class="row">
+                    <!-- <div class="col-md-12">
+                        <div class="search-box-gll">
+                            <form action="">
+                                <i class="fa-solid fa-magnifying-glass search-icon-gll"></i>
+                                <input type="text" placeholder="Search" class="search-item-gll" ng-model="productName">
+                            </form>
+                        </div>
+                    </div> -->
+                    <div class="col-md-2"  data-aos="zoom-out" data-aos-duration="1500" ng-repeat="gallery in galleryList">
+
+                        <div class="h-product-gallery">
+                            <div class="h-product-image">
+                                <a href="" class="hpi-link">
+                                    <img src="{{ gallery.url }}" alt="" class="gallery-photo"
+                                        ng-mouseenter="image.hovered = true" ng-mouseleave="image.hovered = false"
+                                        ng-class="{ 'zoomed': image.hovered }">
+                                </a>
+                            </div>
+                            <div class="h-product-content">
+                                <p class="hpc-heading">
+                                    <a href="">{{ gallery.title }}</a>
+                                </p>
+                                <p class="hpc-subheading">{{gallery.product_id.category.name}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+</body>
+
+</html>

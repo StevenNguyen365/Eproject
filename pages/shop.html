@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="/public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/public/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="/public/js/angular.min.js"></script>
+    <script src="/public/js/angular-route.min.js"></script>
+    <script src="/public/js/main.js" defer></script>
+</head>
+
+<body>
+
+    <main class="main-home" ng-controller="ShopController">
+        <div class="home-product">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 shop-filter mb-3" data-aos="fade-right" data-aos-easing="ease-in-sine">
+                        <div class="search-box">
+                            <form action="">
+                                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                                <input type="text" placeholder="Search" class="search-item" ng-model="productName">
+                            </form>
+                        </div>
+                        <div class="filter-by">
+                            <h3>FILTER BY:</h3>
+                            <button ng-click="reset()" class="btn btn-reset">Reset</button>
+                        </div>
+                        <h4>Category:</h4>
+                        <div class="filter-category">
+                            <select class="form-control" name="" id="" ng-model="categoryId">
+                                <option ng-repeat="category in categoryList" value="{{ category.id }}">
+                                    {{category.name}}
+                                </option>
+                            </select>
+                        </div>
+                        <div class="row">
+                            <h4>Order By:</h4>
+                            <div class="col-md-6">
+                                <div class="filter-category">
+                                    <select class="form-control" ng-model="prop">
+                                        <option value="name" selected>Name</option>
+                                        <option value="price">Price</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="filter-category">
+                                    <select class="form-control" name="" id="" ng-model="order">
+                                        <option value="+">A-Z</option>
+                                        <option value="-">Z-A</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <h3 class="h-product-header" data-aos="fade-left" data-aos-easing="ease-in-sine">
+                            <span class="product-heading-text">PRODUCT LIST</span>
+                        </h3>
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6" data-aos="zoom-in" data-aos-easing="ease-in-sine"
+                                ng-repeat="product in productList | orderBy: order+prop | filter:{category_id: categoryId, name: productName}">
+                                <div class="h-product-item">
+                                    <div class="h-product-image">
+                                        <a href="" class="hpi-link">
+                                            <img src="{{ product.thumbnail }}" alt="" class="pi-photo">
+                                        </a>
+                                    </div>
+                                    <div class="h-product-content">
+                                        <p class="hpc-heading">
+                                            <a href="">{{ product.name }}</a>
+                                        <p>{{product.price | currency:'$':2}}</p>
+                                        </p>
+                                        <p class="hpc-subheading">{{product.category_name | uppercase }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+</body>
+
+</html>
